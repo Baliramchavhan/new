@@ -6,8 +6,8 @@
 A passionate Full Stack Java Developer (Java Spring Boot) with a strong foundation in both front-end and back-end development. Skilled in creating efficient and scalable apps for exceptional user experiences. Skilled in Java, Spring Boot, and a variety of web technologies. Constantly seeking opportunities to innovate and enhance software solutions. Committed to creating technology that solves real-world problems and drives business success. Love to work in a team and always ready to lead a team.
 
 *Education:*
-- *University Department of Management Science Dr, BAM University ch. Sambhajinagar * 
-  - *Bachelor of Computer Application (B.C.A)*  
+- *University Department of Computer Science Dr, BAM University ch. Sambhajinagar * 
+  - *Bachelor of Computer Science (B.C.S)*  
      
 
 <h3 align="left">🚀Languages and Tools:</h3>
