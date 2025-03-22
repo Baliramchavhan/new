@@ -1,4 +1,4 @@
-# HI 👋 i'm Balira, Chavhan
+# HI 👋 i'm Baliram Chavhan
 
 **[Connect with me on LinkedIn](https://www.linkedin.com/in/baliram-chavhan-919319291/)**  
 
