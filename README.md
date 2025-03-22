@@ -21,7 +21,7 @@ A passionate Full Stack Java Developer (Java Spring Boot) with a strong foundati
 - 🖍 *Getting better at:* Java
 - 👀 *Interest:* Software Development
 - 💬 *Ask me about:* Java, Spring Boot, Deployment, Oracle, MySql, Microservices
-- 📫 *How to reach me:* r.ravindrs58@gmail.com- 💬 *Other link:* [LinkedIn](https://www.linkedin.com/in/baliram-chavhan-919319291/)
+- 📫 *How to reach me:* baliramchavan355@gmail.com- 💬 *Other link:* [LinkedIn](https://www.linkedin.com/in/baliram-chavhan-919319291/)
 - 🏆 *GitHub Trophy:* [ GitHub Trophy ](https://github.com/Baliramchavhan)]
 
 - <h3 align="left">🏆 GitHub Trophy</h3>
